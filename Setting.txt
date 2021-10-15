@@ -1,0 +1,5 @@
+Common:ban,ban@gmail.com,12341231,2,2;General:GMT-7:00,English;Sound:1,1,1,1;Display:2,2,2;
+Common:dao thanh son,son@gmail.com,12341234,1,1;General:GMT-7:00,English;Sound:0,0,0,0;Display:1,1,1;
+Common:can,can@gmail.com,12341235,2,2;General:GMT-7:00,English;Sound:0,0,0,0;Display:23,3,3;
+Common:anh,anh@gmail.com,12345677,2,2;General:GMT-7:00,English;Sound:0,0,0,0;Display:2,2,2;
+Common:son dao,dao@gmail.com,21212121,2,2;General:(GMT+06:30) , Tamil;Sound:0,0,0,0;Display:0,0,0;
